@@ -1,4 +1,4 @@
-# SQL Week 2 Assignment
+# # PostgreSQL Database Design & SQL Analysis
 
 Name: Mung'athia RoyMartin Mugendi  
 Date: 19 July 2026  
