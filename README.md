@@ -1,5 +1,16 @@
 # # PostgreSQL Database Design & SQL Analysis
 
+## Project Overview
+
+This project demonstrates database design and SQL querying using PostgreSQL.
+
+It covers creating database tables, inserting and updating records, retrieving information, filtering data, and using SQL operators and conditional expressions to answer questions.
+
+## Technologies Used
+
+- PostgreSQL
+- SQL
+
 Name: Mung'athia RoyMartin Mugendi  
 Date: 19 July 2026  
 Database: PostgreSQL
